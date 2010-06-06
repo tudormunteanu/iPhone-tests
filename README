@@ -1,0 +1,12 @@
+Just some iPhone app tests.
+Following tutorials from:
+http://icodeblog.com/2009/07/24/iphone-programming-tutorial-animating-a-game-sprite/
+and 
+The Official iPhone SDK docs.
+
+1. hello world 
+- interaction using 1 text input, 1 button and text output
+- handling of keyboard input
+
+2. basic animation using sprites
+- great source for sprites: http://panelmonkey.org/
