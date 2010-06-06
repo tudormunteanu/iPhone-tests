@@ -1,0 +1,522 @@
+Tsprite
+v7
+r0
+t297522469.909176
+cCheck dependencies
+cProcessInfoPlistFile "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/Info.plist" sprite-Info.plist
+cCompileXIB "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/MainWindow.xib"
+cCompileXIB "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/spriteViewController.xib"
+cCpResource build/Debug-iphonesimulator/sprite.app/1.png 1.png
+cCpResource build/Debug-iphonesimulator/sprite.app/2.png 2.png
+cCpResource build/Debug-iphonesimulator/sprite.app/3.png 3.png
+cCpResource build/Debug-iphonesimulator/sprite.app/4.png 4.png
+cCpResource build/Debug-iphonesimulator/sprite.app/5.png 5.png
+cCpResource build/Debug-iphonesimulator/sprite.app/6.png 6.png
+cCpResource build/Debug-iphonesimulator/sprite.app/7.png 7.png
+cCpResource build/Debug-iphonesimulator/sprite.app/8.png 8.png
+cCpResource build/Debug-iphonesimulator/sprite.app/9.png 9.png
+cCpResource build/Debug-iphonesimulator/sprite.app/10.png 10.png
+cCpResource build/Debug-iphonesimulator/sprite.app/11.png 11.png
+cCpResource build/Debug-iphonesimulator/sprite.app/12.png 12.png
+cCpResource build/Debug-iphonesimulator/sprite.app/13.png 13.png
+cCpResource build/Debug-iphonesimulator/sprite.app/sf2st-blanka.jpg sf2st-blanka.jpg
+cProcessPCH /var/folders/s8/s8jNB9sJF2SdZMQybzFQGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sprite_Prefix-diqityqgltcwuidzytdvgigponka/sprite_Prefix.pch.gch sprite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/main.o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteAppDelegate.o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteViewController.o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite" normal i386
+cGenerateDSYMFile "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app.dSYM" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite"
+cTouch "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B9F88F600000000000000EE
+t1268746486
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/1.png
+c000000004A69E1AF0000000000000B99
+t1248453039
+s2969
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/10.png
+c000000004A69E1EB0000000000000BE9
+t1248453099
+s3049
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/11.png
+c000000004A69E1F40000000000000BD2
+t1248453108
+s3026
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/12.png
+c000000004A69E2090000000000000B49
+t1248453129
+s2889
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/13.png
+c000000004A69E2140000000000000B82
+t1248453140
+s2946
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/2.png
+c000000004A69E14F0000000000000B99
+t1248452943
+s2969
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/3.png
+c000000004A69E15F0000000000000C7A
+t1248452959
+s3194
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/4.png
+c000000004A69E1700000000000000BF2
+t1248452976
+s3058
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/5.png
+c000000004A69E17B0000000000000C17
+t1248452987
+s3095
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/6.png
+c000000004A69E1BE0000000000000B21
+t1248453054
+s2849
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/7.png
+c000000004A69E1C90000000000000945
+t1248453065
+s2373
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/8.png
+c000000004A69E1D50000000000000A5B
+t1248453077
+s2651
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/9.png
+c000000004A69E1DF0000000000000A40
+t1248453087
+s2624
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteAppDelegate.h
+c000000004C0B97C700000000000001DA
+t1275828167
+s474
+i<UIKit/UIKit.h>
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteAppDelegate.m
+c000000004C0B97C70000000000000266
+t1275828167
+s614
+i"spriteAppDelegate.h"
+i"spriteViewController.h"
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteViewController.h
+c000000004C0B97C700000000000000EC
+t1275828167
+s236
+i<UIKit/UIKit.h>
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteViewController.m
+c000000004C0B97C700000000000005B4
+t1275828167
+s1460
+i"spriteViewController.h"
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/MainWindow.xib
+c000000004C0B97C70000000000002443
+t1275828167
+s9283
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app
+t1275829669
+s714
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app.dSYM
+t1275829669
+s102
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/1.png
+t1275829666
+s2969
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/10.png
+t1275829666
+s3049
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/11.png
+t1275829666
+s3026
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/12.png
+t1275829666
+s2889
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/13.png
+t1275829667
+s2946
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/2.png
+t1275829666
+s2969
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/3.png
+t1275829666
+s3194
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/4.png
+t1275829666
+s3058
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/5.png
+t1275829666
+s3095
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/6.png
+t1275829666
+s2849
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/7.png
+t1275829666
+s2373
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/8.png
+t1275829666
+s2651
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/9.png
+t1275829666
+s2624
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/Info.plist
+t1275829665
+s560
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/MainWindow.nib
+t1275829666
+s1493
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/PkgInfo
+t1275829665
+s8
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sf2st-blanka.jpg
+t1275829667
+s41439
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite
+t1275829669
+s19568
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/spriteViewController.nib
+t1275829666
+s1564
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/main.o
+t1275829669
+s6028
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/sprite.LinkFileList
+c000000004C0B9DA100000000000001EE
+t1275829665
+s494
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteAppDelegate.o
+t1275829669
+s38112
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteViewController.o
+t1275829669
+s30008
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/main.m
+c000000004C0B97C70000000000000169
+t1275828167
+s361
+i<UIKit/UIKit.h>
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/sf2st-blanka.jpg
+c000000004A69DDF5000000000000A1DF
+t1248452085
+s41439
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/spriteViewController.xib
+c000000004C0B9D960000000000001DD7
+t1275829654
+s7639
+
+N/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/sprite_Prefix.pch
+c000000004C0B97C700000000000000B5
+t1275828167
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/s8/s8jNB9sJF2SdZMQybzFQGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sprite_Prefix-diqityqgltcwuidzytdvgigponka/sprite_Prefix.pch.gch
+t1275829668
+s13034960
+
+Nsprite-Info.plist
+c000000004C0B97C7000000000000038D
+t1275828167
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies297522465#297522465#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/main.o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297522469.148748
+e297522469.321637
+r1
+xCompileC
+xbuild/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/main.o
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/main.m297522469#297522469#0(0"0(0#0#80"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/main.m4300885448#2246"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-generated-files.hmap" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-own-target-headers.hmap" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-all-target-headers.hmap" -iquote "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-project-headers.hmap" "-F/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/include" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/DerivedSources/i386" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/DerivedSources" -include /var/folders/s8/s8jNB9sJF2SdZMQybzFQGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sprite_Prefix-diqityqgltcwuidzytdvgigponka/sprite_Prefix.pch -c "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/main.m" -o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteAppDelegate.o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297522469.150437
+e297522469.335020
+r1
+xCompileC
+xbuild/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteAppDelegate.o
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteAppDelegate.m297522469#297522469#0(0"0(0#0#101"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteAppDelegate.m4300885448#2280"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-generated-files.hmap" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-own-target-headers.hmap" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-all-target-headers.hmap" -iquote "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-project-headers.hmap" "-F/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/include" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/DerivedSources/i386" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/DerivedSources" -include /var/folders/s8/s8jNB9sJF2SdZMQybzFQGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sprite_Prefix-diqityqgltcwuidzytdvgigponka/sprite_Prefix.pch -c "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteAppDelegate.m" -o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteAppDelegate.o"0#
+
+CCompileC build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteViewController.o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s297522469.321744
+e297522469.381672
+r1
+xCompileC
+xbuild/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteViewController.o
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@112"Compile /Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteViewController.m297522469#297522469#0(0"0(0#0#104"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteViewController.m4300885448#2286"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-generated-files.hmap" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-own-target-headers.hmap" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-all-target-headers.hmap" -iquote "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-project-headers.hmap" "-F/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/include" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/DerivedSources/i386" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/DerivedSources" -include /var/folders/s8/s8jNB9sJF2SdZMQybzFQGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sprite_Prefix-diqityqgltcwuidzytdvgigponka/sprite_Prefix.pch -c "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/Classes/spriteViewController.m" -o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/spriteViewController.o"0#
+
+CCompileXIB "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/MainWindow.xib"
+s297522465.241608
+e297522466.759538
+r1
+xCompileXIB
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib297522465#297522466#0(0"0(0#0#88"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/MainWindow.xib4300885448#592"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/MainWindow.nib" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/MainWindow.xib"0#
+
+CCompileXIB "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/spriteViewController.xib"
+s297522465.297086
+e297522466.737956
+r1
+xCompileXIB
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/spriteViewController.xib
+lSLF07#2@35"CompileXIB spriteViewController.xib297522465#297522466#0(0"0(0#0#98"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/spriteViewController.xib4300885448#612"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/spriteViewController.nib" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/spriteViewController.xib"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/1.png 1.png
+s297522466.738143
+e297522466.992700
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/1.png
+x1.png
+lSLF07#2@10"Copy 1.png297522466#297522467#0(0"0(0#0#79"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/1.png4300885448#559"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/1.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/10.png 10.png
+s297522466.759617
+e297522466.992561
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/10.png
+x10.png
+lSLF07#2@11"Copy 10.png297522466#297522467#0(0"0(0#0#80"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/10.png4300885448#560"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/10.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/11.png 11.png
+s297522466.980362
+e297522466.996775
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/11.png
+x11.png
+lSLF07#2@11"Copy 11.png297522466#297522467#0(0"0(0#0#80"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/11.png4300885448#560"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/11.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/12.png 12.png
+s297522466.986923
+e297522466.996976
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/12.png
+x12.png
+lSLF07#2@11"Copy 12.png297522466#297522467#0(0"0(0#0#80"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/12.png4300885448#560"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/12.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/13.png 13.png
+s297522466.988366
+e297522467.001540
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/13.png
+x13.png
+lSLF07#2@11"Copy 13.png297522466#297522467#0(0"0(0#0#80"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/13.png4300885448#560"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/13.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/2.png 2.png
+s297522466.742499
+e297522466.979992
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/2.png
+x2.png
+lSLF07#2@10"Copy 2.png297522466#297522467#0(0"0(0#0#79"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/2.png4300885448#559"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/2.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/3.png 3.png
+s297522466.744865
+e297522466.992815
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/3.png
+x3.png
+lSLF07#2@10"Copy 3.png297522466#297522467#0(0"0(0#0#79"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/3.png4300885448#559"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/3.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/4.png 4.png
+s297522466.750374
+e297522466.980163
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/4.png
+x4.png
+lSLF07#2@10"Copy 4.png297522466#297522467#0(0"0(0#0#79"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/4.png4300885448#559"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/4.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/5.png 5.png
+s297522466.751422
+e297522466.992932
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/5.png
+x5.png
+lSLF07#2@10"Copy 5.png297522466#297522467#0(0"0(0#0#79"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/5.png4300885448#559"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/5.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/6.png 6.png
+s297522466.754283
+e297522466.993047
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/6.png
+x6.png
+lSLF07#2@10"Copy 6.png297522466#297522467#0(0"0(0#0#79"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/6.png4300885448#559"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/6.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/7.png 7.png
+s297522466.756087
+e297522466.980284
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/7.png
+x7.png
+lSLF07#2@10"Copy 7.png297522466#297522467#0(0"0(0#0#79"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/7.png4300885448#559"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/7.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/8.png 8.png
+s297522466.756922
+e297522466.993160
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/8.png
+x8.png
+lSLF07#2@10"Copy 8.png297522466#297522467#0(0"0(0#0#79"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/8.png4300885448#559"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/8.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/9.png 9.png
+s297522466.757766
+e297522466.993276
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/9.png
+x9.png
+lSLF07#2@10"Copy 9.png297522466#297522467#0(0"0(0#0#79"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/9.png4300885448#559"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/9.png" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CCpResource build/Debug-iphonesimulator/sprite.app/sf2st-blanka.jpg sf2st-blanka.jpg
+s297522466.993357
+e297522467.032401
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sprite.app/sf2st-blanka.jpg
+xsf2st-blanka.jpg
+lSLF07#2@21"Copy sf2st-blanka.jpg297522466#297522467#0(0"0(0#0#90"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/sf2st-blanka.jpg4300885448#570"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/sf2st-blanka.jpg" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
+CGenerateDSYMFile "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app.dSYM" "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite"
+s297522469.784724
+e297522469.874619
+r1
+xGenerateDSYMFile
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app.dSYM
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/sprite.app.dSYM build/Debug-iphonesimulator/sprite.app/sprite297522469#297522469#0(0"0(0#0#119"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite4300885448#491"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite" -o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app.dSYM"0#
+
+CLd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite" normal i386
+s297522469.381778
+e297522469.784608
+r1
+xLd
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite
+xnormal
+xi386
+lSLF07#2@124"Link /Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite297522469#297522469#0(0"0(0#0#0"4300885448#1044"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk "-L/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator" "-F/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator" -filelist "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/Objects-normal/i386/sprite.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/sprite"0#
+
+CProcessInfoPlistFile "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/Info.plist" sprite-Info.plist
+s297522465.237018
+e297522465.241520
+r1
+xProcessInfoPlistFile
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/Info.plist
+xsprite-Info.plist
+lSLF07#2@25"Process sprite-Info.plist297522465#297522465#0(0"0(0#0#91"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/sprite-Info.plist4300885448#587"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility sprite-Info.plist -genpkginfo "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app/Info.plist"0#
+
+CProcessPCH /var/folders/s8/s8jNB9sJF2SdZMQybzFQGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sprite_Prefix-diqityqgltcwuidzytdvgigponka/sprite_Prefix.pch.gch sprite_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s297522467.032563
+e297522469.148492
+r1
+xProcessPCH
+x/var/folders/s8/s8jNB9sJF2SdZMQybzFQGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sprite_Prefix-diqityqgltcwuidzytdvgigponka/sprite_Prefix.pch.gch
+xsprite_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile sprite_Prefix.pch297522467#297522469#0(0"0(0#0#91"/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/sprite_Prefix.pch4300885448#2102"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-generated-files.hmap" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-own-target-headers.hmap" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-all-target-headers.hmap" -iquote "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/sprite-project-headers.hmap" "-F/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/include" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/DerivedSources/i386" "-I/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/sprite.build/Debug-iphonesimulator/sprite.build/DerivedSources" -c "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/sprite_Prefix.pch" -o /var/folders/s8/s8jNB9sJF2SdZMQybzFQGU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sprite_Prefix-diqityqgltcwuidzytdvgigponka/sprite_Prefix.pch.gch0#
+
+CTouch "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"
+s297522469.874715
+e297522469.909122
+r1
+xTouch
+x/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app
+lSLF07#2@118"Touch /Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app297522469#297522469#0(0"0(0#0#0"4300885448#351"    cd "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/tudorizer/Documents/work/iphone app test/animation tutorial/sprite/build/Debug-iphonesimulator/sprite.app"0#
+
