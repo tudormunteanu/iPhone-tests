@@ -22,7 +22,7 @@
 		EC8396B211BBF05500187E0B /* 13.png in Resources */ = {isa = PBXBuildFile; fileRef = EC8396A411BBF05500187E0B /* 13.png */; };
 		EC8396B311BBF05500187E0B /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = EC8396A511BBF05500187E0B /* 2.png */; };
 		EC8396B411BBF05500187E0B /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = EC8396A611BBF05500187E0B /* 3.png */; };
-		EC8396B511BBF05500187E0B /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = EC8396A711BBF05500187E0B /* 4.png */; };
+		EC8396B511BBF05500187E0B /* ryu.png in Resources */ = {isa = PBXBuildFile; fileRef = EC8396A711BBF05500187E0B /* ryu.png */; };
 		EC8396B611BBF05500187E0B /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = EC8396A811BBF05500187E0B /* 5.png */; };
 		EC8396B711BBF05500187E0B /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = EC8396A911BBF05500187E0B /* 6.png */; };
 		EC8396B811BBF05500187E0B /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = EC8396AA11BBF05500187E0B /* 7.png */; };
@@ -52,7 +52,7 @@
 		EC8396A411BBF05500187E0B /* 13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 13.png; path = /Users/tudorizer/Documents/work/iphone/iphone_git/animation/images/13.png; sourceTree = "<absolute>"; };
 		EC8396A511BBF05500187E0B /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 2.png; path = /Users/tudorizer/Documents/work/iphone/iphone_git/animation/images/2.png; sourceTree = "<absolute>"; };
 		EC8396A611BBF05500187E0B /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 3.png; path = /Users/tudorizer/Documents/work/iphone/iphone_git/animation/images/3.png; sourceTree = "<absolute>"; };
-		EC8396A711BBF05500187E0B /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 4.png; path = /Users/tudorizer/Documents/work/iphone/iphone_git/animation/images/4.png; sourceTree = "<absolute>"; };
+		EC8396A711BBF05500187E0B /* ryu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ryu.png; sourceTree = "<group>"; };
 		EC8396A811BBF05500187E0B /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 5.png; path = /Users/tudorizer/Documents/work/iphone/iphone_git/animation/images/5.png; sourceTree = "<absolute>"; };
 		EC8396A911BBF05500187E0B /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 6.png; path = /Users/tudorizer/Documents/work/iphone/iphone_git/animation/images/6.png; sourceTree = "<absolute>"; };
 		EC8396AA11BBF05500187E0B /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 7.png; path = /Users/tudorizer/Documents/work/iphone/iphone_git/animation/images/7.png; sourceTree = "<absolute>"; };
@@ -146,7 +146,7 @@
 				EC8396A411BBF05500187E0B /* 13.png */,
 				EC8396A511BBF05500187E0B /* 2.png */,
 				EC8396A611BBF05500187E0B /* 3.png */,
-				EC8396A711BBF05500187E0B /* 4.png */,
+				EC8396A711BBF05500187E0B /* ryu.png */,
 				EC8396A811BBF05500187E0B /* 5.png */,
 				EC8396A911BBF05500187E0B /* 6.png */,
 				EC8396AA11BBF05500187E0B /* 7.png */,
@@ -209,7 +209,7 @@
 				EC8396B211BBF05500187E0B /* 13.png in Resources */,
 				EC8396B311BBF05500187E0B /* 2.png in Resources */,
 				EC8396B411BBF05500187E0B /* 3.png in Resources */,
-				EC8396B511BBF05500187E0B /* 4.png in Resources */,
+				EC8396B511BBF05500187E0B /* ryu.png in Resources */,
 				EC8396B611BBF05500187E0B /* 5.png in Resources */,
 				EC8396B711BBF05500187E0B /* 6.png in Resources */,
 				EC8396B811BBF05500187E0B /* 7.png in Resources */,

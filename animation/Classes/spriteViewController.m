@@ -36,6 +36,7 @@
 							 nil];
 	UIImageView * ryuJump = [[UIImageView alloc] initWithFrame:
 							 CGRectMake(100, 125, 150, 130)];
+	
 	ryuJump.animationImages = imageArray;
 	ryuJump.animationDuration = 1.1;
 	ryuJump.contentMode = UIViewContentModeBottomLeft;
